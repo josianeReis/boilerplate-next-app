@@ -1,7 +1,7 @@
 'use client';
 import styled from 'styled-components';
 
-export const Main = styled.main`
+export const Main = styled('main')`
   background-color: #06092b;
   color: #fff;
   width: 100%;
