@@ -1,7 +1,11 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Main should render the heading 1`] = `
-<h1>
-  Main
-</h1>
+<main
+  class="sc-bcPKhP jhrJfq"
+>
+  <h1>
+    Main
+  </h1>
+</main>
 `;
